@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1684233514 source:d:\facultate\sda\temaplm2\1243324132t4y534554\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"sys/types.h"
+

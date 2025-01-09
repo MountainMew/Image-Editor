@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1683030406 source:d:\facultate\sda\temaplm2\tema\main.c
+	"arb.h"
+
+1683029998 d:\facultate\sda\temaplm2\tema\arb.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
